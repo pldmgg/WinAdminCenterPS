@@ -105,7 +105,18 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Get-FirewallRules|Get-ServerInventory|New-FirewallRule|
 |Remove-FirewallRule|
 
+## Functions Used in the Local Users & Groups Tab
 
+|LocalUsersGroups Tab 1|LocalUsersGroups Tab 2|LocalUsersGroup Tab 3|
+|----------------------|----------------------|---------------------|
+|Add-UserToLocalGroups|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
+|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
+|Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
+|Get-LocalGroups|Get-LocalGroupUsers|Get-LocalUserBelongGroups|
+|Get-LocalUsers|Get-ServerInventory|New-LocalGroup|
+|New-LocalUser|Remove-LocalGroup|Remove-LocalUser|
+|Remove-LocalUserFromLocalGroups|Remove-UsersFromLocalGroup|Rename-LocalGroup|
+|Set-LocalGroupProperties|Set-LocalUserPassword|Set-LocalUserProperties|
 
 ## Notes
 
