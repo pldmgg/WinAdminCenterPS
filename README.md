@@ -127,6 +127,19 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Get-ClusterInventory|Get-ClusterNodes|Get-Networks|
 |Get-ServerInventory|Set-DhcpIP|Set-StaticIP
 
+## Functions Used in the Processes Tab
+
+|Processes Functions 1|Processes Functions 2|Processes Functions 3|
+|---------------------|---------------------|---------------------|
+|Get-CimNamespaceWithinMicrosoftWindows|Get-CimProcess|Get-CimWin32ComputerSystem|
+|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|
+|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|Get-ClusterInventory|
+|Get-ClusterNodes|Get-ProcessDownlevel|Get-Processes|
+|Get-ProcessHandle|Get-ProcessModule|Get-ProcessService|
+|Get-ServerInventory|New-CimProcessDump|New-ProcessDumpDownlevel|
+|Start-CimProcess|Start-ProcessDownlevel|Stop-CimProcess|
+|Stop-Processes|
+
 ## Notes
 
 * PSGallery: 
