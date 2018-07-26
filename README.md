@@ -21,8 +21,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 ```
 
 ## Functions Used in the Overview Tab
-|Overview Tab Functions 1|Overview Tab Functions 2|Overview Tab Functions 3|
-|------------------------|------------------------|------------------------|
+|Overview Functions 1|Overview Functions 2|Overview Functions 3|
+|--------------------|--------------------|--------------------|
 |Get-AntimalwareSoftwareStatus|Get-CimMemorySummary|Get-CimNetworkAdapterSummary|
 |Get-CimProcessorSummary|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
 |Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
@@ -41,8 +41,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 
 ## Functions Used in the Certificates Tab
 
-|Certificates Tab Functions 1|Certificates Tab Functions 2|Certificates Tab Functions 3|
-|----------------------------|----------------------------|----------------------------|
+|Certificates Functions 1|Certificates Functions 2|Certificates Functions 3|
+|------------------------|------------------------|------------------------|
 |Clear-EventLogChannel|Clear-EventLogChannelAfterExport|Export-Certificate|
 |Export-EventLogChannel|Get-CertificateOverview|Get-Certificates|
 |Get-CertificateScopes|Get-CertificateStores|Get-CertificateTreeNodes|
@@ -56,8 +56,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 
 ## Functions Used in the Devices Tab
 
-|Devices Tab Functions 1|Devices Tab Functions 2|Devices Tab Functions 3|
-|-----------------------|-----------------------|-----------------------|
+|Devices Functions 1|Devices Functions 2|Devices Functions 3|
+|-------------------|-------------------|-------------------|
 |Disable-CimPnpEntity|Enable-CimPnpEntity|Find-DeviceDrivers|
 |Get-CimClassPnpEntity|Get-CimPnpEntity|Get-CimPnpEntityDeviceProperties|
 |Get-CimPnpEntityForDevice|Get-CimPnpSignedDriver|Get-CimWin32ComputerSystem|
@@ -68,8 +68,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 
 ## Functions Used in the Events Tab
 
-|Events Tab Functions 1|Events Tab Functions 2|Events Tab Functions 3|
-|----------------------|----------------------|----------------------|
+|Events Functions 1|Events Functions 2|Events Functions 3|
+|------------------|------------------|------------------|
 |Clear-EventLogChannel|Clear-EventLogChannelAfterExport|Export-EventLogChannel|
 |Get-CimEventLogRecords|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
 |Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
@@ -79,8 +79,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 
 ## Functions Used in the Files Tab
 
-|Files Tab Functions 1|Files Tab Functions 2|Files Tab Functions 3|
-|---------------------|---------------------|---------------------|
+|Files Functions 1|Files Functions 2|Files Functions 3|
+|-----------------|-----------------|-----------------|
 |Add-FolderShare|Add-FolderShareNameUser|Add-FolderShareUser|
 |Compress-ArchiveFileSystemEntity|Edit-FolderShareInheritanceFlag|Edit-FolderShareUser|
 |Expand-ArchiveFileSystemEntity|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
@@ -96,8 +96,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 
 ## Functions Used in the Firewall Tab
 
-|Firewall Tab Functions 1|Firewall Tab Functions 2|Firewall Tab Functions 3|
-|------------------------|------------------------|------------------------|
+|Firewall Functions 1|Firewall Functions 2|Firewall Functions 3|
+|--------------------|--------------------|--------------------|
 |Disable-FirewallRule|Edit-FirewallRule|Enable-FirewallRule|
 |Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|
 |Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|
@@ -107,8 +107,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 
 ## Functions Used in the Local Users & Groups Tab
 
-|LocalUsersGroups Tab 1|LocalUsersGroups Tab 2|LocalUsersGroup Tab 3|
-|----------------------|----------------------|---------------------|
+|LocalUsersGroups Functions 1|LocalUsersGroups Functions 2|LocalUsersGroup Functions 3|
+|----------------------------|----------------------------|---------------------------|
 |Add-UserToLocalGroups|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
 |Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
 |Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
@@ -117,6 +117,15 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |New-LocalUser|Remove-LocalGroup|Remove-LocalUser|
 |Remove-LocalUserFromLocalGroups|Remove-UsersFromLocalGroup|Rename-LocalGroup|
 |Set-LocalGroupProperties|Set-LocalUserPassword|Set-LocalUserProperties|
+
+## Functions Used in the Network Tab
+
+|Network Functions 1|Network Functions 2|Network Functions 3|
+|-------------------|-------------------|-------------------|
+|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|
+|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|
+|Get-ClusterInventory|Get-ClusterNodes|Get-Networks|
+|Get-ServerInventory|Set-DhcpIP|Set-StaticIP
 
 ## Notes
 
