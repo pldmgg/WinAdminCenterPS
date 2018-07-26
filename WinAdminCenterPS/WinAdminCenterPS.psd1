@@ -69,11 +69,7 @@ PowerShellVersion = '5.1'
 # NestedModules = @()
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = 'Add-CAPubKeyToSSHAndSSHDConfig','Configure-VaultServerForLDAPAuth',
-                    'Configure-VaultServerForSSHManagement','Get-LDAPCert','Get-VaultAccessorLookup',
-                    'Get-VaultLogin','Get-VaultTokenAccessors','Get-VaultTokens',
-                    'Manage-StoredCredentials','New-SSHCredentials','Revoke-VaultToken',
-                    'Sign-SSHHostPublicKey','Sign-SSHUserPublicKey'
+FunctionsToExport = '*'
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
 CmdletsToExport = '*'
@@ -91,7 +87,7 @@ AliasesToExport = '*'
 # ModuleList = @()
 
 # List of all files packaged with this module
-FileList = 'VaultServer.psm1', 'VaultServer.psd1'
+FileList = 'WinAdminCenterPS.psm1', 'WinAdminCenterPS.psd1'
 
 # Private data to pass to the module specified in RootModule/ModuleToProcess. This may also contain a PSData hashtable with additional module metadata used by PowerShell.
 PrivateData = @{
