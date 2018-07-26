@@ -54,6 +54,18 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Remove-Certificate|Remove-ItemByPath|Set-EventLogChannelStatus|
 |Update-Certificate|
 
+## Functions Used in the Devices Tab
+
+|Devices Tab Functions 1|Devices Tab Functions 2|Devices Tab Functions 3|
+|-----------------------|-----------------------|-----------------------|
+|Disable-CimPnpEntity|Enable-CimPnpEntity|Find-DeviceDrivers|
+|Get-CimClassPnpEntity|Get-CimPnpEntity|Get-CimPnpEntityDeviceProperties|
+|Get-CimPnpEntityForDevice|Get-CimPnpSignedDriver|Get-CimWin32ComputerSystem|
+|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|
+|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|Get-ClusterInventory|
+|Get-ClusterNodes|Get-DeviceDriverInformation|Get-ServerInventory|
+|Install-DeviceDriver|Set-DeviceState|Update-DeviceDriver|
+
 ## Notes
 
 * PSGallery: 
