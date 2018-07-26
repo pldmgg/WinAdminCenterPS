@@ -21,8 +21,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 ```
 
 ## Functions Used in the Overview Tab
-|Overview Functions 1|Overview Functions 2|Overview Functions 3|
-|--------------------|--------------------|--------------------|
+|Overview Tab Functions 1|Overview Tab Functions 2|Overview Tab Functions 3|
+|------------------------|------------------------|------------------------|
 |Get-AntimalwareSoftwareStatus|Get-CimMemorySummary|Get-CimNetworkAdapterSummary|
 |Get-CimProcessorSummary|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
 |Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
@@ -38,6 +38,21 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Set-ComputerIdentification|Set-EnvironmentVariable|Set-HyperVEnhancedSessionModeSettings|
 |Set-HyperVHostGeneralSettings|Set-HyperVHostLiveMigrationSettings|Set-HyperVHostNumaSpanningSettings|
 |Set-HyperVHostStorageMigrationSettings|Set-RemoteDesktop|Start-DiskPerf|Stop-CimOperatingSystem|Stop-DiskPerf
+
+## Functions Used in the Certificates Tab
+
+|Certificates Tab Functions 1|Certificates Tab Functions 2|Certificates Tab Functions 3|
+|----------------------------|----------------------------|----------------------------|
+|Clear-EventLogChannel|Clear-EventLogChannelAfterExport|Export-Certificate|
+|Export-EventLogChannel|Get-CertificateOverview|Get-Certificates|
+|Get-CertificateScopes|Get-CertificateStores|Get-CertificateTreeNodes|
+|Get-CimEventLogRecords|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
+|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
+|Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
+|Get-EventLogFilteredCount|Get-EventLogRecords|Get-EventLogSummary|
+|Get-ServerInventory|Get-TempFolder|Import-Certificate|
+|Remove-Certificate|Remove-ItemByPath|Set-EventLogChannelStatus|
+|Update-Certificate|
 
 ## Notes
 
