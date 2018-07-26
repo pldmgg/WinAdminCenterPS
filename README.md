@@ -77,6 +77,23 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Get-EventLogFilteredCount|Get-EventLogRecords|Get-EventLogSummary|
 |Get-ServerInventory|Set-EventLogChannelStatus|
 
+## Functions Used in the Files Tab
+
+|Files Tab Functions 1|Files Tab Functions 2|Files Tab Functions 3|
+|---------------------|---------------------|---------------------|
+|Add-FolderShare|Add-FolderShareNameUser|Add-FolderShareUser|
+|Compress-ArchiveFileSystemEntity|Edit-FolderShareInheritanceFlag|Edit-FolderShareUser|
+|Expand-ArchiveFileSystemEntity|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
+|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
+|Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
+|Get-ComputerName|Get-FileNamesInPath|Get-FileSystemEntities|
+|Get-FileSystemRoot|Get-FolderItemCount|Get-FolderOwner|
+|Get-FolderShareNames|Get-FolderShareNameUserAccess|Get-FolderShareStatus|
+|Get-FolderShareUsers|Get-ItemProperties|Get-ItemType|
+|Get-ServerInventory|Get-TempFolderPath|New-Folder|
+|Remove-AllShareNames|Remove-FileSystemEntity|Remove-FolderShareUser|
+|Rename-FileSystemEntity|Test-FileSystemEntity
+
 ## Notes
 
 * PSGallery: 
