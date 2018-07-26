@@ -6,6 +6,15 @@
     .DESCRIPTION
         Update volume properties.
         The supported Operating Systems are Window Server 2012, Windows Server 2012R2, Windows Server 2016.
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
         Administrators
@@ -67,8 +76,8 @@ function Edit-StorageVolume {
 # SIG # Begin signature block
 # MIIMiAYJKoZIhvcNAQcCoIIMeTCCDHUCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUCDN60jqwolqO2+hzA3f5hJ2p
-# Biugggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU85sO/JJSwyyI0mtxKNQE+AnF
+# F9qgggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
 # 9w0BAQsFADAwMQwwCgYDVQQGEwNMQUIxDTALBgNVBAoTBFpFUk8xETAPBgNVBAMT
 # CFplcm9EQzAxMB4XDTE3MDkyMDIxMDM1OFoXDTE5MDkyMDIxMTM1OFowPTETMBEG
 # CgmSJomT8ixkARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMT
@@ -125,11 +134,11 @@ function Edit-StorageVolume {
 # ARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMTB1plcm9TQ0EC
 # E1gAAAH5oOvjAv3166MAAQAAAfkwCQYFKw4DAhoFAKB4MBgGCisGAQQBgjcCAQwx
 # CjAIoAKAAKECgAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGC
-# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFNSZVUK+5hcUQiyR
-# 9bYN7mzCh9TcMA0GCSqGSIb3DQEBAQUABIIBAEp1Dy4CWddE5RD92p8kghrugLUm
-# ZmByyPrKAtL7fStdf0I/rMmtTfDhBe3CBOjfO5Lcuz9B1ubNml98DN1euc9R61j3
-# FAUatpdxb/vHGhOKye9ysk6qi3ThYh0+HQFs4Rbyw/LCHSmzGHerlXcYZaxtlrg5
-# BFeTC85LDSm5vAvhoyzX9xb8V8x8gVhpCo2DPPpqH9h6xY27O1H1UjmPmGB17Fe+
-# kYJ405MkqX00Js5IYaY9wdPD6qcD1zczYauCyC1dGMLf/m7cQ4JwUEKQ04i1mouu
-# 9eLnGZCSzwx5I0ddMUNUOS8fM1bvt309Vp9baOBxMy8ld/wGwnG+Dg58rtI=
+# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFGtxRznPZxVFcDLu
+# m982+Q+8vawRMA0GCSqGSIb3DQEBAQUABIIBAE8pVreGmLfd+yjSEEryA36A7wJG
+# iMeqMfRff34YWpkR931kA97JVDq1x8o7G6kUzv+Gda+I02C5kSeXD7VLMfcNHbA7
+# JBoqg/YKplKivywhPkJkZVUAO4LFxtkUjZKJVI+8LfvnzgZA3scMt1e2iGJIaxvn
+# N/Li66xUXJ/O86A38e3ZiApzMugu/3hcbFdpCF3yh+K66kLCsUgnwifduzsvPmr3
+# oB1qmfpBIuvdVzAo3+ew2mzKdawHF+wkQiXOXG4haKtxlqL9/EGlfgoigF1//EOv
+# LbhMWdd2Pl6NTPrVq3mSQbz/AbRxGYLGCO7ipJb1zow00JfxCzeR0XQianc=
 # SIG # End signature block

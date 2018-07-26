@@ -1,4 +1,3 @@
-
 <#
 
     .SYNOPSIS
@@ -8,6 +7,15 @@
         Create a scheduled task to run a powershell script file to installs all available windows updates through ComObject, restart the machine if needed.
         This is a workaround since CreateUpdateDownloader() and CreateUpdateInstaller() methods can't be called from a remote computer - E_ACCESSDENIED.
         More details see https://msdn.microsoft.com/en-us/library/windows/desktop/aa387288(v=vs.85).aspx
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .PARAMETER RestartTime
         The user-defined time to restart after update (Optional).
@@ -245,8 +253,8 @@ if($NeedsReboot){
 # SIG # Begin signature block
 # MIIMiAYJKoZIhvcNAQcCoIIMeTCCDHUCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUt4VbDhhqiCHxEhuW735g3eZW
-# ntagggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU21aG+FptLm3W3v+1chAd5+o/
+# rQegggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
 # 9w0BAQsFADAwMQwwCgYDVQQGEwNMQUIxDTALBgNVBAoTBFpFUk8xETAPBgNVBAMT
 # CFplcm9EQzAxMB4XDTE3MDkyMDIxMDM1OFoXDTE5MDkyMDIxMTM1OFowPTETMBEG
 # CgmSJomT8ixkARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMT
@@ -303,11 +311,11 @@ if($NeedsReboot){
 # ARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMTB1plcm9TQ0EC
 # E1gAAAH5oOvjAv3166MAAQAAAfkwCQYFKw4DAhoFAKB4MBgGCisGAQQBgjcCAQwx
 # CjAIoAKAAKECgAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGC
-# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFJKyHrKnYQgVhotG
-# tOiWKBELVL6IMA0GCSqGSIb3DQEBAQUABIIBAB9zsCqzzgs3T8BTMDXXYMo+UgS2
-# YzkVBgwHodL4XPwJnRcXdyRf+Rw69MM4OyKj0A9BTrGSJVJtROiBho5XZ14P4D36
-# 4aWrlNuDPg719AdwYu0w6yyfk50oKtFV7iLtzgKPLs0YKsYE66hB+fobqYwO8cxg
-# MSzW6O99zmeS6tg00eJRgKm1tDT1/om5MH2vtjSvB+pAZ5woDF8f1wzBNu0a3Z/f
-# /Uk/XvMx2PITbcwJxaJJ02nbS73aW++xSgfEQQSO4XfnJ27shw37F2Oa/eqhs2BG
-# KBvUEFaa1ye/x3fXlqmQwxh1bY3NrhPtk+zkio/hJSoRg3RrZ1I5OsuvpfM=
+# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFJ/XsJofZ07znSZ5
+# qcpn0rtNr70TMA0GCSqGSIb3DQEBAQUABIIBAAXZ8LOgShH2FxfkVGL9QAoIQZW8
+# IQIvZAIKUSIV1PqL8mRfgZuHWvmtHVFE2l11NGmoffxGS1lVYG+3mGtBGssRXFdW
+# qkjIFcCwf0PmXlzluEeYUnChe1hsbIhplOKUBZFPAGSXyaR77iMLRTFPo5huLI3G
+# 3d4zoqaTa6tqDVgFilkGg84eK09NnhdlGfr5wMOv9SXkWkF/ISNNZ2PDFO9fSuiA
+# k0n5dTpetMaVxUERlwj25Fz+IEZnRRjofNvlNAhpFl5uFGbgKazkctz/ZMK5zgGc
+# 0xjm89/qGTgwB4VkRswehoeFzIqHkzwu/SubMyEmgtUieol/2pS885J/49o=
 # SIG # End signature block

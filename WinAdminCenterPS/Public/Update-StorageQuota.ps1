@@ -6,6 +6,15 @@
     .DESCRIPTION
         Update a new Quota for volume.
         The supported Operating Systems are Window Server 2012, Windows Server 2012R2, Windows Server 2016.
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
         Administrators
@@ -61,11 +70,12 @@ function Update-StorageQuota {
    Set-FsrmQuota @scriptArguments
    
 }
+
 # SIG # Begin signature block
 # MIIMiAYJKoZIhvcNAQcCoIIMeTCCDHUCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUlfSawsguCAZixO+oFZgWiN/F
-# 1DOgggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUPUL/Ngg97s6vO8GUsRvs0XIZ
+# iBigggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
 # 9w0BAQsFADAwMQwwCgYDVQQGEwNMQUIxDTALBgNVBAoTBFpFUk8xETAPBgNVBAMT
 # CFplcm9EQzAxMB4XDTE3MDkyMDIxMDM1OFoXDTE5MDkyMDIxMTM1OFowPTETMBEG
 # CgmSJomT8ixkARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMT
@@ -122,11 +132,11 @@ function Update-StorageQuota {
 # ARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMTB1plcm9TQ0EC
 # E1gAAAH5oOvjAv3166MAAQAAAfkwCQYFKw4DAhoFAKB4MBgGCisGAQQBgjcCAQwx
 # CjAIoAKAAKECgAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGC
-# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFAwqDo+SyN/3cb+l
-# TvFqVD1HmQu7MA0GCSqGSIb3DQEBAQUABIIBAFgDiCOpS87I5uzZ0m9boPHTD9Mv
-# jAIwKtIO+sbbmH2VxfOh9IMtrcxJDsx2hU2TmxVxRBc6YApqIhEa9aBkQTGJHVQ9
-# LKaMYr5Ty1oV/Iqes2lwWQaHK1JCVb7zKhlZOv38BBu8F0+7270va24L0wv4LSnU
-# YXP7/lWsuyQ/xanWy9nxQhU6b0oZUK5cv4CEyK7HYcoDY/oDbPHV+lLG7p1RDrvu
-# q/ZYF7xIZWQ+Uk7B6+WWhoEmxfp/J5XisBmFvd3mgTkZtlPCH1PyD5G17+AReofw
-# WygDQold2Sahw953r7gW5G6sw28bPDV29jCMbIzb9yo7tvZIk7I6o5NvGJU=
+# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFC5sMpz4L7mMyU4u
+# iQ4LO1tz+alvMA0GCSqGSIb3DQEBAQUABIIBACb7877TkHh94ZDohY0Sw4m9G8Gm
+# u/nu+hI07Bn9iphD8RAaNd3UQTO9V6TX5lDHv0wF8G3TcNi3ytd3kZwlp3j4ArXJ
+# fXEgB/lyoUQTkZKVbxpbHHQzK/bFADbfJrAFWh9Oz+6VnpfIX8+jEJVVSDQ8lMjY
+# pBXjlLzDb8mRBQz9/FWZTFTZFDrbPYCEYY4A5n1JEi65qolGvXh5cCxsUlPUaoAs
+# 6NygFOtqlkWX8/v49porV3Sb00uGC8+Um2lpQ0aWNY1GZq42a4ig7MwbWjaHpu5W
+# TU/jBFUR5DEc2VT10FyF3SmsLMaufpoPSY299+SYal3+tY7H6Qhnp+I+33A=
 # SIG # End signature block

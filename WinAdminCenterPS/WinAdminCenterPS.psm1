@@ -52,7 +52,7 @@ if ($ModulesToInstallAndImport.Count -gt 0) {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -106,7 +106,7 @@ function Add-FolderShare {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -161,7 +161,7 @@ function Add-FolderShareNameUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .PARAMETER Path
@@ -212,7 +212,7 @@ function Add-FolderShareUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -295,7 +295,7 @@ function Add-ScheduledTaskAction {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
@@ -487,7 +487,7 @@ function Add-ScheduledTaskTrigger {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -565,7 +565,7 @@ function Add-UserToLocalGroups {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -596,7 +596,7 @@ function Clear-EventLogChannel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -639,7 +639,7 @@ function Clear-EventLogChannelAfterExport {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -700,7 +700,7 @@ function Compress-ArchiveFileSystemEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -733,7 +733,7 @@ function Disable-CimPnpEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -772,7 +772,7 @@ function Disable-FirewallRule {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -809,7 +809,7 @@ function Disable-ScheduledTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -846,7 +846,7 @@ function Dismount-StorageVHD {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -953,7 +953,7 @@ function Edit-FirewallRule {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -993,7 +993,7 @@ function Edit-FolderShareInheritanceFlag {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1041,6 +1041,15 @@ function Edit-FolderShareUser {
     .DESCRIPTION
         Update volume properties.
         The supported Operating Systems are Window Server 2012, Windows Server 2012R2, Windows Server 2016.
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
         Administrators
@@ -1114,7 +1123,7 @@ function Edit-StorageVolume {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1148,7 +1157,7 @@ function Enable-CimPnpEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1187,7 +1196,7 @@ function Enable-FirewallRule {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1227,7 +1236,7 @@ function Enable-ScheduledTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1289,7 +1298,7 @@ function Expand-ArchiveFileSystemEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1542,7 +1551,7 @@ try {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1584,7 +1593,7 @@ function Export-EventLogChannel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1620,7 +1629,7 @@ function Export-RegistryContent {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1666,7 +1675,7 @@ function Find-DeviceDrivers {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .EXAMPLE
@@ -1904,7 +1913,7 @@ $result | ConvertTo-Json -depth 10 | Out-File $ResultFile
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -1993,7 +2002,7 @@ function Format-StorageVolume {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2024,7 +2033,7 @@ function Get-AntimalwareSoftwareStatus {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2060,7 +2069,7 @@ function Get-AutomaticUpdatesOptions {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2139,7 +2148,7 @@ function Get-CertificateOverview {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2680,7 +2689,7 @@ function Get-Certificates {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2706,7 +2715,7 @@ function Get-CertificateScopes {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2736,7 +2745,7 @@ function Get-CertificateStores {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2765,7 +2774,7 @@ function Get-CertificateTreeNodes {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2793,7 +2802,7 @@ function Get-CimClassPnpEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2846,7 +2855,7 @@ function Get-CimEventLogRecords {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2873,7 +2882,7 @@ function Get-CimMemorySummary {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2904,7 +2913,7 @@ function Get-CimNamespaceWithinMicrosoftWindows {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2932,7 +2941,7 @@ function Get-CimNetworkAdapterSummary {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2960,7 +2969,7 @@ function Get-CimPnpEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -2993,7 +3002,7 @@ function Get-CimPnpEntityDeviceProperties {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3025,7 +3034,7 @@ function Get-CimPnpEntityForDevice {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3057,7 +3066,7 @@ function Get-CimPnpSignedDriver {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3085,7 +3094,7 @@ function Get-CimProcess {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -3113,7 +3122,7 @@ function Get-CimProcessorSummary {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3146,7 +3155,7 @@ function Get-CimRegistrySubKeys {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3180,7 +3189,7 @@ function Get-CimRegistryValues {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3211,7 +3220,7 @@ function Get-CimServiceDetail {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3244,7 +3253,7 @@ function Get-CimSingleService {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3271,7 +3280,7 @@ function Get-CimWin32ComputerSystem {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3298,7 +3307,7 @@ function Get-CimWin32LogicalDisk {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3324,7 +3333,7 @@ function Get-CimWin32NetworkAdapter {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3350,7 +3359,7 @@ function Get-CimWin32OperatingSystem {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3376,7 +3385,7 @@ function Get-CimWin32PhysicalMemory {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3403,7 +3412,7 @@ function Get-CimWin32Processor {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3448,7 +3457,7 @@ function Get-ClientConnectionStatus {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3618,7 +3627,7 @@ function Get-ClusterInventory {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3747,7 +3756,7 @@ function Get-ClusterNodes {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3789,7 +3798,7 @@ function Get-ComputerIdentification {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3818,7 +3827,7 @@ function Get-ComputerName {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3881,7 +3890,7 @@ function Get-DeviceDriverInformation {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -3923,7 +3932,7 @@ function Get-DiskSummary {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4020,7 +4029,7 @@ function Get-DiskSummaryDownlevel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4064,7 +4073,7 @@ function Get-EnvironmentVariables {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
@@ -4098,7 +4107,7 @@ function Set-EventLogChannelStatus {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4129,7 +4138,7 @@ function Get-EventLogFilteredCount {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4181,7 +4190,7 @@ function Get-EventLogRecords {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4221,7 +4230,7 @@ function Get-EventLogSummary {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .PARAMETER Path
@@ -4282,7 +4291,7 @@ function Get-FileNamesInPath {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4410,7 +4419,7 @@ function Get-FileSystemEntities {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4496,7 +4505,7 @@ function Get-FileSystemRoot {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4524,7 +4533,7 @@ function Get-FirewallProfile {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4755,7 +4764,7 @@ function Get-FirewallRules {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4794,7 +4803,7 @@ function Get-FolderItemCount {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4830,7 +4839,7 @@ function Get-FolderOwner {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4872,7 +4881,7 @@ function Get-FolderShareNames {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .PARAMETER Name
@@ -4917,7 +4926,7 @@ function Get-FolderShareNameUserAccess {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4956,7 +4965,7 @@ function Get-FolderShareStatus {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -4994,7 +5003,7 @@ function Get-FolderShareUsers {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5024,7 +5033,7 @@ function Get-HyperVEnhancedSessionModeSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5056,7 +5065,7 @@ function Get-HyperVGeneralSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5099,7 +5108,7 @@ function Get-HyperVHostPhysicalGpuSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5133,7 +5142,7 @@ function Get-HyperVLiveMigrationSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5179,7 +5188,7 @@ function Get-HyperVMigrationSupport {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5209,7 +5218,7 @@ function Get-HyperVNumaSpanningSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5240,7 +5249,7 @@ function Get-HyperVRoleInstalled {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5272,7 +5281,7 @@ function Get-HyperVStorageMigrationSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5325,7 +5334,7 @@ function Get-ItemProperties {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5397,7 +5406,7 @@ function Get-ItemType {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5461,7 +5470,7 @@ function Get-LocalGroups {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5529,7 +5538,7 @@ function Get-LocalGroupUsers {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5610,7 +5619,7 @@ function Get-LocalUserBelongGroups {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5713,7 +5722,7 @@ function Get-LocalUsers {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5789,7 +5798,7 @@ function Get-MemorySummaryDownLevel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -5988,7 +5997,7 @@ function Get-Networks {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -6139,7 +6148,7 @@ function Get-NetworkSummaryDownlevel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -6179,7 +6188,7 @@ function Get-NumberOfLoggedOnUsers {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -7085,7 +7094,7 @@ namespace SMT
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -7206,7 +7215,7 @@ function Get-Processes {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -8029,7 +8038,7 @@ namespace SME
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8063,7 +8072,7 @@ function Get-ProcessModule {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8144,7 +8153,7 @@ function Get-ProcessorSummaryDownlevel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8178,7 +8187,7 @@ function Get-ProcessService {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8222,7 +8231,7 @@ function Get-RbacSessionConfiguration {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8266,7 +8275,7 @@ function Get-RegistrySubKeys {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8317,7 +8326,7 @@ function Get-RegistryValues {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8393,7 +8402,7 @@ function Get-RemoteDesktop {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .EXAMPLE
@@ -8459,7 +8468,7 @@ function Get-RolesAndFeatures {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8563,7 +8572,7 @@ function Get-ScheduledTasks {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8631,7 +8640,7 @@ function Get-ServerConnectionStatus {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8956,7 +8965,7 @@ function Get-ServerInventory {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -8990,7 +8999,7 @@ function Get-ServiceImagePath {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -9465,7 +9474,7 @@ namespace SMT
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -9502,7 +9511,7 @@ function Get-ServiceLogOnUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -9630,7 +9639,7 @@ function Get-ServiceRecoveryOptions {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -9794,7 +9803,7 @@ function Get-StorageDisk {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -9925,7 +9934,7 @@ function Get-StorageFileShare {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -9952,7 +9961,7 @@ function Get-StorageQuota {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10017,7 +10026,7 @@ function Get-StorageResizeDetails {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10356,7 +10365,7 @@ function Get-StorageVolume {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10384,7 +10393,7 @@ function Get-TempFolder {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10413,7 +10422,7 @@ function Get-TempFolderPath {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10442,7 +10451,7 @@ function Get-TemporaryFolder {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10470,6 +10479,15 @@ function Get-WindowsUpdateInstallerStatus {
 
     .DESCRIPTION
         Script that imports certificate.
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
         Administrators
@@ -10672,7 +10690,7 @@ try {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10714,7 +10732,7 @@ function Import-RegistryContent {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10758,7 +10776,7 @@ function Initialize-StorageDisk {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10794,7 +10812,7 @@ function Install-DeviceDriver {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .PARAMETER FeatureName
@@ -10910,7 +10928,7 @@ function Install-RolesAndFeatures {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -10933,6 +10951,15 @@ function Install-StorageFSRM {
         Create a scheduled task to run a powershell script file to installs all available windows updates through ComObject, restart the machine if needed.
         This is a workaround since CreateUpdateDownloader() and CreateUpdateInstaller() methods can't be called from a remote computer - E_ACCESSDENIED.
         More details see https://msdn.microsoft.com/en-us/library/windows/desktop/aa387288(v=vs.85).aspx
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .PARAMETER RestartTime
         The user-defined time to restart after update (Optional).
@@ -11182,7 +11209,7 @@ if($NeedsReboot){
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11220,7 +11247,7 @@ function New-BasicTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11385,7 +11412,7 @@ function New-BasicTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11419,7 +11446,7 @@ function New-CimProcessDump {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11466,7 +11493,7 @@ function New-EnvironmentVariable {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11581,7 +11608,7 @@ function New-FirewallRule {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11638,7 +11665,7 @@ function New-Folder {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11696,7 +11723,7 @@ function New-LocalGroup {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11781,7 +11808,7 @@ function New-LocalUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -11951,7 +11978,7 @@ namespace SME
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -11989,7 +12016,7 @@ function New-RegistryKey {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12038,7 +12065,7 @@ function New-RegistryValue {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12111,7 +12138,7 @@ function New-StorageQuota {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -12469,7 +12496,7 @@ namespace SME
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12590,7 +12617,7 @@ function New-StorageVolume {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12631,7 +12658,7 @@ function Remove-AllShareNames {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
@@ -12662,7 +12689,7 @@ function Remove-Certificate {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12706,7 +12733,7 @@ function Remove-EnvironmentVariable {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12737,7 +12764,7 @@ function Remove-FilePath {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12774,7 +12801,7 @@ function Remove-FileSystemEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12814,7 +12841,7 @@ function Remove-FirewallRule {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12869,7 +12896,7 @@ function Remove-FolderShareUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -12898,7 +12925,7 @@ function Remove-ItemByPath {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12939,7 +12966,7 @@ function Remove-LocalGroup {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -12980,7 +13007,7 @@ function Remove-LocalUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13048,7 +13075,7 @@ function Remove-LocalUserFromLocalGroups {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13080,7 +13107,7 @@ function Remove-RegistryKey {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13116,7 +13143,7 @@ function Remove-RegistryValue {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13155,7 +13182,7 @@ function Remove-ScheduledTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13256,7 +13283,7 @@ function Remove-ScheduledTaskAction {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13292,7 +13319,7 @@ function Remove-StorageQuota {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13329,7 +13356,7 @@ function Remove-StorageVolume {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13396,7 +13423,7 @@ function Remove-UsersFromLocalGroup {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13479,7 +13506,7 @@ function Rename-FileSystemEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -13537,7 +13564,7 @@ function Rename-LocalGroup {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13574,7 +13601,7 @@ function Rename-RegistryKey {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13612,7 +13639,7 @@ function Rename-RegistryValue {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13656,7 +13683,7 @@ function Resize-StorageVolume {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13688,7 +13715,7 @@ function Restart-CimOperatingSystem {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13722,7 +13749,7 @@ function Resume-CimService {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -13795,7 +13822,7 @@ function Search-RegistryKeyAndValue {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .EXAMPLE
@@ -13859,7 +13886,7 @@ function Set-AutomaticUpdatesOptions {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -13975,7 +14002,7 @@ function Set-ComputerIdentification {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -14283,7 +14310,7 @@ namespace SME.DeviceManager
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14361,7 +14388,7 @@ function Set-DhcpIP {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14430,7 +14457,7 @@ function Set-EnvironmentVariable {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14472,7 +14499,7 @@ function Set-HyperVEnhancedSessionModeSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14519,7 +14546,7 @@ function Set-HyperVHostGeneralSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14586,7 +14613,7 @@ function Set-HyperVHostLiveMigrationSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14628,7 +14655,7 @@ function Set-HyperVHostNumaSpanningSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14671,7 +14698,7 @@ function Set-HyperVHostStorageMigrationSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14719,7 +14746,7 @@ function Set-LocalGroupProperties {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14761,7 +14788,7 @@ function Set-LocalUserPassword {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14808,7 +14835,7 @@ function Set-LocalUserProperties {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14855,7 +14882,7 @@ function Set-RegistryValue {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -14921,7 +14948,7 @@ function Set-RemoteDesktop {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15028,7 +15055,7 @@ function Set-ScheduledTaskConditions {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15098,7 +15125,7 @@ function Set-ScheduledTaskGeneralSettings {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15224,7 +15251,7 @@ function Set-ScheduledTaskSettingsSet {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15271,7 +15298,7 @@ function Set-ServiceLogOnUser {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15351,7 +15378,7 @@ function Set-ServiceRecoveryOptions {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15405,7 +15432,7 @@ function Set-ServiceStartOptions {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -15496,7 +15523,7 @@ function Set-StaticIP {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15537,7 +15564,7 @@ function Set-StorageDiskOffline {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15570,7 +15597,7 @@ function Start-CimProcess {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15604,7 +15631,7 @@ function Start-CimService {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15632,7 +15659,7 @@ function Start-DiskPerf {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15668,7 +15695,7 @@ function Start-ProcessDownlevel {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15706,7 +15733,7 @@ function Start-ScheduledTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15738,7 +15765,7 @@ function Stop-CimOperatingSystem {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15772,7 +15799,7 @@ function Stop-CimProcess {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15800,7 +15827,7 @@ function Stop-DiskPerf {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15835,7 +15862,7 @@ function Stop-Processes {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15873,7 +15900,7 @@ function Stop-ScheduledTask {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15903,7 +15930,7 @@ function Stop-ServiceByName {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15938,7 +15965,7 @@ function Suspend-CimService {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -15977,7 +16004,7 @@ function Test-FileSystemEntity {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .EXAMPLE
@@ -16048,7 +16075,7 @@ function Test-RegistryValueExists {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .PARAMETER FeatureName
@@ -16156,7 +16183,7 @@ function Uninstall-RolesAndFeatures {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -16290,7 +16317,7 @@ function Update-Certificate {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
 
     .ROLE
@@ -16499,7 +16526,7 @@ Foreach($Update in $objCollectionDownload)
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
     
     .ROLE
@@ -16617,7 +16644,7 @@ function Update-ScheduledTaskAction {
         PowerShell scripts use rights (according to Microsoft):
         We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
 
-        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
         INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
@@ -16825,6 +16852,15 @@ function Update-ScheduledTaskTrigger {
     .DESCRIPTION
         Update a new Quota for volume.
         The supported Operating Systems are Window Server 2012, Windows Server 2012R2, Windows Server 2016.
+
+    .NOTES
+        This function is pulled directly from the real Microsoft Windows Admin Center
+
+        PowerShell scripts use rights (according to Microsoft):
+        We grant you a non-exclusive, royalty-free right to use, modify, reproduce, and distribute the scripts provided herein.
+
+        ANY SCRIPTS PROVIDED BY MICROSOFT ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS OR A PARTICULAR PURPOSE.
    
     .ROLE
         Administrators
@@ -17103,8 +17139,8 @@ function Update-StorageQuota {
 # SIG # Begin signature block
 # MIIMiAYJKoZIhvcNAQcCoIIMeTCCDHUCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUGhobR81ke7irEbKkz6cYsnQn
-# 1pagggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUYkFXz06PTXMnbX3RZ7JUqqgO
+# NpWgggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
 # 9w0BAQsFADAwMQwwCgYDVQQGEwNMQUIxDTALBgNVBAoTBFpFUk8xETAPBgNVBAMT
 # CFplcm9EQzAxMB4XDTE3MDkyMDIxMDM1OFoXDTE5MDkyMDIxMTM1OFowPTETMBEG
 # CgmSJomT8ixkARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMT
@@ -17161,11 +17197,11 @@ function Update-StorageQuota {
 # ARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMTB1plcm9TQ0EC
 # E1gAAAH5oOvjAv3166MAAQAAAfkwCQYFKw4DAhoFAKB4MBgGCisGAQQBgjcCAQwx
 # CjAIoAKAAKECgAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGC
-# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFBxv5tskWnsV6HkA
-# EhJ5CBHcpBM+MA0GCSqGSIb3DQEBAQUABIIBAEnfb2v0J6FLHQqLNmECNG0wKtwL
-# 6QL17qxBnm/Jx3m3uE/enFFNUmYpErbZyle4zQfFVa6k44MBE205twbuXe56j5Yt
-# im4UBO3iOgsp9RfGEriMwEtn2DzfwcG4cI6f2GSakDeiT5aRlTIp437vJh/I+Dm1
-# /XrXQvlXMFiQuxEUmgPmVMLN2NYTg6mMCV8303P+tjhFXQzzVpmN8On/JX1aARw4
-# T64NKOHvhmDF2IvCy4BZM4+VvoewEvtfa7rF2InPLBukG5Uq6vl02bUog0OmxQin
-# TzQW2Zv8JAp4SLn17HfOj2ixgfBEGo5BxdyQY8C4fBVqxgtM6IldXe0f03o=
+# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFKjKPbSuW1sPwjt4
+# 2MURRoTdjdx7MA0GCSqGSIb3DQEBAQUABIIBACOyezIXTsGJzFLwZLAxtPnHsP7r
+# WshrnBS6lPvHyPaiP52p1nGzP81KDmgqYD5NqoBiZlbGVoBxKAgGwuoxhVK35OAZ
+# xwHY/WaNE71leNNQICB++0joHhrfymguKRjrsf4DKnFZpYA+gsSodOhW4vrSnYW7
+# xtuYc1m9NhOKZ6Mn1cfOTlW1FpgAL6ZA980o2clMGZiPhm7Cns9gryqdZTBe3s37
+# 62uATHnvEGXqCm+Wwitt1rwweL39YJ6YJ67qVPfXU2QQWGKXxI1wj02TibQlP4BW
+# psZ+aClhd+k2XUpbf93I3mbJj9KoWL+3jU9g4V2i76jykgPvDTsMZv7FV1I=
 # SIG # End signature block
