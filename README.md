@@ -154,6 +154,15 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Rename-RegistryKey|Rename-RegistryValue|Search-RegistryKeyAndValue|
 |Set-RegistryValue|Test-RegistryValueExists|
 
+## Functions Used in the Roles & Features Tab
+
+|RolesFeatures Functions 1|RolesFeatures Functions 2|RolesFeatures Functions 3|
+|-------------------------|-------------------------|-------------------------|
+|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|
+|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|
+|Get-ClusterInventory|Get-ClusterNodes|Get-RolesAndFeatures|
+|Get-ServerInventory|Install-RolesAndFeatures|Uninstall-RolesAndFeatures
+
 ## Notes
 
 * PSGallery: 
