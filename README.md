@@ -66,6 +66,17 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Get-ClusterNodes|Get-DeviceDriverInformation|Get-ServerInventory|
 |Install-DeviceDriver|Set-DeviceState|Update-DeviceDriver|
 
+## Functions Used in the Events Tab
+
+|Events Tab Functions 1|Events Tab Functions 2|Events Tab Functions 3|
+|----------------------|----------------------|----------------------|
+|Clear-EventLogChannel|Clear-EventLogChannelAfterExport|Export-EventLogChannel|
+|Get-CimEventLogRecords|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
+|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
+|Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
+|Get-EventLogFilteredCount|Get-EventLogRecords|Get-EventLogSummary|
+|Get-ServerInventory|Set-EventLogChannelStatus|
+
 ## Notes
 
 * PSGallery: 
