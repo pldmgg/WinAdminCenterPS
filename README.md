@@ -161,7 +161,20 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|
 |Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|
 |Get-ClusterInventory|Get-ClusterNodes|Get-RolesAndFeatures|
-|Get-ServerInventory|Install-RolesAndFeatures|Uninstall-RolesAndFeatures
+|Get-ServerInventory|Install-RolesAndFeatures|Uninstall-RolesAndFeatures|
+
+## Functions Used in the Scheduled Tasks Tab
+
+|ScheduledTasks Functions 1|ScheduledTasks Functions 2|ScheduledTasks Functions 3|
+|--------------------------|--------------------------|--------------------------|
+|Add-ScheduledTaskAction|Add-ScheduledTaskTrigger|Disable-ScheduledTask|
+|Enable-ScheduledTask|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
+|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
+|Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
+|Get-ScheduledTasks|Get-ServerInventory|New-BasicTask|
+|Remove-ScheduledTask|Remove-ScheduledTaskAction|Set-ScheduledTaskConditions|
+|Set-ScheduledTaskGeneralSettings|Set-ScheduledTaskSettingsSet|Start-ScheduledTask|
+|Stop-ScheduledTask|Update-ScheduledTaskAction|Update-ScheduledTaskTrigger|
 
 ## Notes
 
