@@ -1,38 +1,34 @@
-[CmdletBinding()]
-param(
-    [Parameter(Mandatory=$False)]
-    [System.Collections.Hashtable]$TestResources
-)
-# NOTE: `Set-BuildEnvironment -Force -Path $PSScriptRoot` from build.ps1 makes the following $env: available:
-<#
-    $env:BHBuildSystem = "Unknown"
-    $env:BHProjectPath = "U:\powershell\ProjectRepos\MiniLab"
-    $env:BHBranchName = "master"
-    $env:BHCommitMessage = "!deploy"
-    $env:BHBuildNumber = 0
-    $env:BHProjectName = "MiniLab"
-    $env:BHPSModuleManifest = "U:\powershell\ProjectRepos\MiniLab\MiniLab\MiniLab.psd1"
-    $env:BHModulePath = "U:\powershell\ProjectRepos\MiniLab\MiniLab"
-    $env:BHBuildOutput = "U:\powershell\ProjectRepos\MiniLab\BuildOutput"
-#>
+function GetElevation {
+    if ($PSVersionTable.PSEdition -eq "Desktop" -or $PSVersionTable.Platform -eq "Win32NT" -or $PSVersionTable.PSVersion.Major -le 5) {
+        [System.Security.Principal.WindowsPrincipal]$currentPrincipal = New-Object System.Security.Principal.WindowsPrincipal(
+            [System.Security.Principal.WindowsIdentity]::GetCurrent()
+        )
 
-# NOTE: If -TestResources was used, the folloqing resources should be available
-<#
-    $TestResources = @{
-        UserName        = $UserName
-        SimpleUserName  = $SimpleUserName
-        Password        = $Password
-        Creds           = $Creds
+        [System.Security.Principal.WindowsBuiltInRole]$administratorsRole = [System.Security.Principal.WindowsBuiltInRole]::Administrator
+
+        if($currentPrincipal.IsInRole($administratorsRole)) {
+            return $true
+        }
+        else {
+            return $false
+        }
     }
-#>
-
-# placeholder
+    
+    if ($PSVersionTable.Platform -eq "Unix") {
+        if ($(whoami) -eq "root") {
+            return $true
+        }
+        else {
+            return $false
+        }
+    }
+}
 
 # SIG # Begin signature block
 # MIIMiAYJKoZIhvcNAQcCoIIMeTCCDHUCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUzJGBSk1hb7EaDXz2MNifVDmZ
-# nhigggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU3DYHmsoT5iKf206R1hwQpKQ2
+# jbygggn9MIIEJjCCAw6gAwIBAgITawAAAB/Nnq77QGja+wAAAAAAHzANBgkqhkiG
 # 9w0BAQsFADAwMQwwCgYDVQQGEwNMQUIxDTALBgNVBAoTBFpFUk8xETAPBgNVBAMT
 # CFplcm9EQzAxMB4XDTE3MDkyMDIxMDM1OFoXDTE5MDkyMDIxMTM1OFowPTETMBEG
 # CgmSJomT8ixkARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMT
@@ -89,11 +85,11 @@ param(
 # ARkWA0xBQjEUMBIGCgmSJomT8ixkARkWBFpFUk8xEDAOBgNVBAMTB1plcm9TQ0EC
 # E1gAAAH5oOvjAv3166MAAQAAAfkwCQYFKw4DAhoFAKB4MBgGCisGAQQBgjcCAQwx
 # CjAIoAKAAKECgAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGC
-# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFGfVnSBXCQi26IKi
-# L1h+FrsVnvvYMA0GCSqGSIb3DQEBAQUABIIBAJLo6k4GTMHBFjNPQentyiOx0GoP
-# KJ++iSKIVpR3MeZw57BWIJ8hPON3fCnvPQ1R/XtzMI8FiQ/d1FnlbRxk3cllF/U0
-# yfDPN8YlYjhXpO0IRJqW8ddMVY9+rKHMzy5twLGtre2WeXjyVRJ+drwDwRGIYfoR
-# Jt/w85MI3BTVZV19A8mZQkNbI3j6PoHlz5+/r8dYg9jfBRRYeJ/c3Vczz1jRZelD
-# 1kotTdEO4Jt8X7iTUXFQ8x2AjmZEOwnaLTcEX9+EG4ADNstwZ99y9slo3XXvUqCF
-# sH8V4eF97ZZFq50e64j+Xrkz3JSBf4kZakDg01WxvUJwK0zpGidQSYfbfIU=
+# NwIBCzEOMAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFKOfk0/zgQLM/zmO
+# wfqbtI19vuDEMA0GCSqGSIb3DQEBAQUABIIBADnN8O0EipLPvoBARImyjpXBuqmg
+# iLCuI0JDry+hInob9V9xnkQHSEOfDmDZsN4LodAqSPM5SmcAwej33jRU/VW4nivl
+# 5zC09dZNqi16sPPS15XMtGeySkrVTqVSPI0QpI0f80SQKn1k4Eb0Tud3+zWk8W8i
+# NU5l5NecDVRFngol0qdIIgOzMm2F1CfGnfWvVKVwfRdTgXaDWZ1YnDbQjyKOhKJ4
+# mAPWnIwNzQylzf5K1xOmlSGPAHuFkXo5izFDjH1Ns2g+JRosuSvUw+ZZux/MFSe+
+# 9XydaJ/VMTtT+SeurmFeL6yYqhjEYJ1oWiqp5xzaKjBKFI+y6JRvFNANMFQ=
 # SIG # End signature block
