@@ -212,6 +212,16 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Remove-StorageVolume|Rename-FileSystemEntity|Resize-StorageVolume|
 |Set-StorageDiskOffline|Test-FileSystemEntity|Update-StorageQuota|
 
+## Functions Used in the Updates Tab
+
+|Updates Functions 1|Updates Functions 2|Updates Functions 3|
+|-------------------|-------------------|-------------------|
+|Find-WindowsUpdateList|Get-AutomaticUpdatesOptions|Get-CimWin32ComputerSystem|
+|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|
+|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|Get-ClusterInventory|
+|Get-ClusterNodes|Get-ServerInventory|Get-WindowsUpdateInstallerStatus|
+|Install-WindowsUpdates|Set-AutomaticUpdatesOptions|
+
 ## Notes
 
 * PSGallery: 
