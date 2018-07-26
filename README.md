@@ -176,6 +176,19 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Set-ScheduledTaskGeneralSettings|Set-ScheduledTaskSettingsSet|Start-ScheduledTask|
 |Stop-ScheduledTask|Update-ScheduledTaskAction|Update-ScheduledTaskTrigger|
 
+## Functions Used in the Services Tab
+
+|Services Functions 1|Services Functions 2|Services Functions 3|
+|--------------------|--------------------|--------------------|
+|Get-CimServiceDetail|Get-CimSingleService|Get-CimWin32ComputerSystem|
+|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|
+|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|Get-ClusterInventory|
+|Get-ClusterNodes|Get-ServerInventory|Get-ServiceImagePath|
+|Get-ServiceList|Get-ServiceLogOnUser|Get-ServiceRecoveryOptions|
+|Resume-CimService|Set-ServiceLogOnUser|Set-ServiceRecoveryOptions|
+|Set-ServiceStartOptions|Start-CimService|Stop-ServiceByName|
+|Suspend-CimService|
+
 ## Notes
 
 * PSGallery: 
