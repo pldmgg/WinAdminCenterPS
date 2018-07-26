@@ -94,6 +94,19 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Remove-AllShareNames|Remove-FileSystemEntity|Remove-FolderShareUser|
 |Rename-FileSystemEntity|Test-FileSystemEntity
 
+## Functions Used in the Firewall Tab
+
+|Firewall Tab Functions 1|Firewall Tab Functions 2|Firewall Tab Functions 3|
+|------------------------|------------------------|------------------------|
+|Disable-FirewallRule|Edit-FirewallRule|Enable-FirewallRule|
+|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|
+|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|
+|Get-ClusterInventory|Get-ClusterNodes|Get-FirewallProfile|
+|Get-FirewallRules|Get-ServerInventory|New-FirewallRule|
+|Remove-FirewallRule|
+
+
+
 ## Notes
 
 * PSGallery: 
