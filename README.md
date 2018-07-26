@@ -189,6 +189,29 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Set-ServiceStartOptions|Start-CimService|Stop-ServiceByName|
 |Suspend-CimService|
 
+## Functions Used in the Storage Tab
+
+|Storage Functions 1|Storage Functions 2|Storage Functions 3|
+|-------------------|-------------------|-------------------|
+|Add-FolderShare|Add-FolderShareNameUser|Add-FolderShareUser|
+|Compress-ArchiveFileSystemEntity|Dismount-StorageVHD|Edit-FolderShareInheritanceFlag|
+|Edit-FolderShareUser|Edit-StorageVolume|Expand-ArchiveFileSystemEntity|
+|Format-StorageVolume|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
+|Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
+|Get-CimWin32Processor|Get-ClusterInventory|Get-ClusterNodes|
+|Get-ComputerName|Get-FileNamesInPath|Get-FileSystemEntities|
+|Get-FileSystemRoot|Get-FolderItemCount|Get-FolderOwner|
+|Get-FolderShareNames|Get-FolderShareNameUserAccess|Get-FolderShareStatus|
+|Get-FolderShareUsers|Get-ItemProperties|Get-ItemType|
+|Get-ServerInventory|Get-StorageDisk|Get-StorageFileShare|
+|Get-StorageQuota|Get-StorageResizeDetails|Get-StorageVolume|
+|Get-TempFolderPath|Initialize-StorageDisk|Install-StorageFSRM|
+|Mount-StorageVHD|New-Folder|New-StorageQuota|
+|New-StorageVHD|New-StorageVolume|Remove-AllShareNames|
+|Remove-FileSystemEntity|Remove-FolderShareUser|Remove-StorageQuota|
+|Remove-StorageVolume|Rename-FileSystemEntity|Resize-StorageVolume|
+|Set-StorageDiskOffline|Test-FileSystemEntity|Update-StorageQuota|
+
 ## Notes
 
 * PSGallery: 
