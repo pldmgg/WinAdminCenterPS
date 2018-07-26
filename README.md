@@ -21,8 +21,8 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 ```
 
 ## Functions Used in the Overview Tab
-|Function Names 1|Function Names 2|Function Names 3|
-|----------------|----------------|----------------|
+|Overview Functions 1|Overview Functions 2|Overview Functions 3|
+|--------------------|--------------------|--------------------|
 |Get-AntimalwareSoftwareStatus|Get-CimMemorySummary|Get-CimNetworkAdapterSummary|
 |Get-CimProcessorSummary|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|
 |Get-CimWin32NetworkAdapter|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|
