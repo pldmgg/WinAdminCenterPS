@@ -140,6 +140,20 @@ Copy of  Windows Admin Center (https://docs.microsoft.com/en-us/windows-server/m
 |Start-CimProcess|Start-ProcessDownlevel|Stop-CimProcess|
 |Stop-Processes|
 
+## Functions Used in the Registry Tab
+
+|Registry Functions 1|Registry Functions 2|Registry Functions 3|
+|--------------------|--------------------|--------------------|
+|Export-RegistryContent|Get-CimRegistrySubKeys|Get-CimRegistryValues|
+|Get-CimWin32ComputerSystem|Get-CimWin32LogicalDisk|Get-CimWin32NetworkAdapter|
+|Get-CimWin32OperatingSystem|Get-CimWin32PhysicalMemory|Get-CimWin32Processor|
+|Get-ClusterInventory|Get-ClusterNodes|Get-RegistrySubKeys|
+|Get-RegistryValues|Get-ServerInventory|Get-TemporaryFolder|
+|Import-RegistryContent|New-RegistryKey|New-RegistryValue|
+|Remove-FilePath|Remove-RegistryKey|Remove-RegistryValue|
+|Rename-RegistryKey|Rename-RegistryValue|Search-RegistryKeyAndValue|
+|Set-RegistryValue|Test-RegistryValueExists|
+
 ## Notes
 
 * PSGallery: 
